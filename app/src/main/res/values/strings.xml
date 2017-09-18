@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Manuel Romero App</string>
+    <string name="radio_male">Hombre</string>
+    <string name="radio_female">Mujer</string>
+</resources>
